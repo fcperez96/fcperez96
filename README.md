@@ -26,7 +26,8 @@
 <table>
 <tr>
 <td width="50%">
-                 <br>
+<br>
+<br>
 <h3 align="center">How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools</h3>
 <div align="center">
 <a href=""https://github.com/fcperez96/facebook-visual-test-playwright" target="_blank"><img src="https://i.ibb.co/r5rRbtM/AUTOMATION-TESTING-6.png" width="400" alt="How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools"></a>
