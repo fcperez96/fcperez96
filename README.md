@@ -27,10 +27,10 @@
 <tr>
 <td width="50%">
 <br>
-<br>
-<h3 align="center">How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools</h3>
+<h3 align="center">How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools</h3>	
 <div align="center">
-<a href=""https://github.com/fcperez96/facebook-visual-test-playwright" target="_blank"><img src="https://i.ibb.co/r5rRbtM/AUTOMATION-TESTING-6.png" width="400" alt="How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools"></a>
+<a href="https://github.com/fcperez96/facebook-visual-test-playwright" target="_blank"><img src="https://i.ibb.co/r5rRbtM/AUTOMATION-TESTING-6.png" width="400" alt="How to do & Run Visual Testing with AI || Playwright 🎭 - Applitools"></a>
+<br>
 <p>
 <a href="https://github.com/fcperez96/facebook-visual-test-playwright" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -40,8 +40,7 @@
 </a>
 </p>
 <p>I'll be showcasing my coding skills as I build an automated visual testing solution for Facebook login using Applitools and Playwright. Utilizing the power of artificial intelligence, Applitools helps me ensure that every aspect of the login process is visually consistent and error-free. Throughout the video, I'll be walking you through my thought process and the code as I write it, showing you how I integrate Applitools and Playwright to create a robust and efficient testing process. So sit back and watch as I demonstrate my expertise in coding and automation by delivering quality content that will take your testing skills to the next level!.</p>
-</div>
-                                                                                      
+</div>                                                                                  
 </td>
 
 <td width="50%">
@@ -58,9 +57,9 @@
 </a>
 </p>
 </p>In this project, I showcase my coding skills by implementing a robot for automated testing of Google Maps using Cypress and the Page Object Model design pattern. Follow along as I write the code, demonstrating best practices for structuring and organizing automated tests. You'll learn how to create reusable page objects, write clean and concise test cases, and use Cypress commands to interact with Google Maps. This video is perfect for developers and QA professionals looking to improve their automated testing skills in Cypress.</p>
-</div>                                                             
-</table>                                                                                 
 </div>
+</td>
+</table>                                                                                 
                                                                                        
 <div align='center'>
 <br>
