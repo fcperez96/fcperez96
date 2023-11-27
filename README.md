@@ -13,7 +13,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🦾🐞 A self-taught and passionate test automator
-- ⭐ ISQTB Foundation Level certified
+- ⭐ ISQTB Test Automation Engineer certified
 - 🎥 I show you how to automate tests in different technologies in [Youtube](https://youtube.com/@picps?sub_confirmation=1)
 
 <div align='center'>
